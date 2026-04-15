@@ -1,7 +1,7 @@
 # HNG14 Stage 1 - DevOps Track Personal API
 
 ## 1. What the project is and how to run it locally
-This is a simple Personal API built for the HNG12 DevOps Track Stage 1. It provides basic information about the developer and health status of the service.
+This is a simple Personal API built for the HNG14 DevOps Track Stage 1. It provides basic information about the developer and health status of the service.
 
 **To run locally:**
 1. Clone this repository: `git clone <your-repo-link>`
